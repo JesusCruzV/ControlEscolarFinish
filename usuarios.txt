@@ -1,0 +1,10 @@
+maestro: 
+user-> pelon 
+pass-> 1234
+alumno:
+user-> pelon 
+pass-> 123
+administrador:
+user-> jose
+pass-> 123
+
